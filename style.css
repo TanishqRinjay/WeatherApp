@@ -1,0 +1,27 @@
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.navbar {
+  padding: 0;
+}
+.container-fluid {
+  padding: 8px 12px 8px 12px;
+  background-color: #93c6e7;
+}
+#submit {
+  background-color: rgb(250, 250, 250);
+}
+.container > .row > .col > .card {
+  box-shadow: 15px 15px 15px black;
+}
+main > h1 {
+  color: #93c6e7;
+}
+.card-header {
+  background-color: #b9f3fc;
+}
+.card-body {
+  background-color: #aee2ff;
+}
